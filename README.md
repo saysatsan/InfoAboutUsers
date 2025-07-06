@@ -10,11 +10,14 @@
 ## Структура проєкту
 src
     ├── App.css
+    
     ├── App.jsx
+    
     ├── components
-    │   ├── Header
-    │   ├── UserModal
-    │   ├── UserRow
-    │   └── UserTable
-    ├── index.css
-    ├── index.js
+    
+        │   ├── Header
+        │   ├── UserModal
+        │   ├── UserRow
+        │   └── UserTable
+        ├── index.css
+        ├── index.js
